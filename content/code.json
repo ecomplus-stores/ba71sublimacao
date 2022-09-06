@@ -1,5 +1,5 @@
 {
-  "css": "",
+  "css": ".header{\nbackground: #000000;\n}\n.header__nav a{\ncolor: #ffffff;\n}\n.header__nav a:hover{\nbackground: #444444;\n}\n.header__toggler-icon{\ncolor: #f7f7f7;\n}\n\n.fas.fa-search{\ncolor: #ffffff;\n}\n\n.app__header{\nbackground: #000000;\n}\n.app__header{\ncolor: #ffffff;\n}\n.app__contact{\ncolor: #ffffff;\n}\n.app__contact span:not(:first-child){\ncolor: #ffffff;\n}",
   "html_head": "",
   "html_body": ""
 }
