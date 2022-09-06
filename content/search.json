@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "breadcrumbs",
+      "enabled": true
+    },
+    {
       "type": "search-engine",
       "enabled": true
     }
