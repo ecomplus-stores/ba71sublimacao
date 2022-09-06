@@ -1,6 +1,10 @@
 {
   "sections": [
     {
+      "type": "info-bar",
+      "enabled": true
+    },
+    {
       "type": "breadcrumbs",
       "enabled": true
     },
@@ -8,17 +12,13 @@
       "type": "page-title"
     },
     {
-      "type": "document-banner",
+      "type": "document-description",
       "enabled": true
     },
     {
       "type": "category-retail",
       "enabled": true,
       "sort": "sales"
-    },
-    {
-      "type": "document-description",
-      "enabled": true
     }
   ]
 }
