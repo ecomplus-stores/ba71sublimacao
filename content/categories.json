@@ -2,7 +2,7 @@
   "sections": [
     {
       "type": "info-bar",
-      "enabled": true
+      "enabled": false
     },
     {
       "type": "breadcrumbs",
@@ -18,7 +18,7 @@
     {
       "type": "category-retail",
       "enabled": true,
-      "sort": "sales"
+      "sort": "news"
     }
   ]
 }
