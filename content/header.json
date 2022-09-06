@@ -1,35 +1,26 @@
 {
   "marketing_stripe": {
-    "text": "Dúvidas? Chama no ZAP!",
+    "text": "",
     "link": ""
   },
   "contacts_stripe": {
     "pages": [
       {
-        "title": "Sobre Nós",
-        "link": "/pages/sobre-nos"
-      },
-      {
-        "title": "Coleções",
-        "link": ""
-      },
-      {
-        "title": "Caricaturas"
-      },
-      {
-        "title": "Personalizados"
-      },
-      {
-        "title": "Caneca Mágica"
+        "title": "Dúvidas? Chama no ZAP!"
       }
     ],
     "phone_wpp": true,
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/sobre-nos?SOBRE NÓS",
+      "/colecoes?COLEÇÕES",
+      "/flork?FLORK",
+      "/caricatura?CARICATURA"
+    ],
     "random": 6,
-    "full_width": false
+    "full_width": true
   },
   "desktop_megamenu": false,
   "search_input": true,
