@@ -1,11 +1,11 @@
 {
   "shipping": {
     "show": true,
-    "text": "Entregamos para todo o Brasil."
+    "text": "ENTREGAMOS PARA TODO O BRASIL."
   },
   "installments": {
     "show": true,
-    "text": "Parcele em até 3x sem juros no Cartão de Crédito. Exceto em Promoções!"
+    "text": "PARCELE EM ATÉ 3x SEM JUROS NO CARTÃO DE CRÉDITO. EXCETO PROMOÇÃO!"
   },
   "exchange": {
     "show": false,
@@ -13,6 +13,6 @@
   },
   "promo": {
     "show": true,
-    "text": "Diferentes promoções ao longo do ano!"
+    "text": "PROMOÇÕES AO LONGO DO ANO!"
   }
 }
