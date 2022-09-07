@@ -7,19 +7,19 @@
     "custom": "_"
   },
   "bg_color": "#000000",
-  "logo": "/img/uploads/logo.png",
+  "logo": "/img/uploads/marca.png",
   "name": "BA71 Sublimação",
   "short_name": "BA71 Sublimação",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
   "font_family": "Rubik",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/icone.png",
   "icons_font": "_",
   "country_code": "BR",
   "secondary_color": "#000000",
-  "icon": "/img/icon.png",
+  "icon": "/img/uploads/icone.png",
   "store_id": 30490,
   "description": "Sublimação em Canecas de Porcelana, Vidro e Polímero (Plástico). Estampas Personalizadas ou Coleção BA71.",
-  "large_icon": "/img/large-icon.png"
+  "large_icon": "/img/uploads/icone.png"
 }
