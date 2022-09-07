@@ -8,12 +8,12 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/caricatura.png",
+          "img": "/img/uploads/caricatura-desktop.png",
           "link": "/caricatura",
           "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": ""
+          "mobile_img": "/img/uploads/caricatura-mobile.png"
         }
       ]
     },
