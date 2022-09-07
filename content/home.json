@@ -8,19 +8,19 @@
       "full_width": false,
       "slides": [
         {
-          "img": "/img/uploads/caricatura-desktop.png",
+          "img": "/img/uploads/caricatura-desktop.webp",
           "link": "/caricatura",
           "alt": "",
           "start": "",
           "end": "",
-          "mobile_img": "/img/uploads/caricatura-mobile.png"
+          "mobile_img": "/img/uploads/caricatura-mobile.webp"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/canecas-desktop.png",
+          "img": "/img/uploads/canecas-desktop.webp",
           "link": "/colecoes",
-          "mobile_img": "/img/uploads/canecas-mobile.png"
+          "mobile_img": "/img/uploads/canecas-mobile.webp"
         }
       ]
     },
