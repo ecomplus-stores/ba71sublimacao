@@ -1,12 +1,5 @@
 {
-  "sort_categories": [
-    "sobre-nos",
-    "colecoes",
-    "caricatura",
-    "flork",
-    "personalizados",
-    "caneca-magica"
-  ],
+  "sort_categories": [],
   "alphabetical_order": true,
   "phone_wpp": false,
   "socials": false
