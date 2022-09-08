@@ -4,23 +4,15 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 7000,
+      "autoplay": 6800,
       "full_width": true,
       "slides": [
         {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/caricatura-desktop.webp",
           "link": "/caricatura",
-          "alt": "",
-          "start": "",
-          "end": "",
           "mobile_img": "/img/uploads/caricatura-mobile.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/canecas-desktop.webp",
-          "link": "/colecoes",
-          "mobile_img": "/img/uploads/canecas-mobile.webp"
         }
       ]
     },
