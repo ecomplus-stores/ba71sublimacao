@@ -24,6 +24,9 @@
     {
       "src": "/img/uploads/ssl-safe.png",
       "alt": "Secure connection"
+    },
+    {
+      "src": "/img/uploads/pix-bc-logo.png"
     }
   ],
   "payment_methods": {
