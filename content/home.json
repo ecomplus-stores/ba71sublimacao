@@ -17,6 +17,12 @@
         {
           "start": "",
           "end": "",
+          "img": "/img/uploads/pix-desktop.webp",
+          "mobile_img": "/img/uploads/pix-mobile.webp"
+        },
+        {
+          "start": "",
+          "end": "",
           "img": "/img/uploads/canecas-desktop.webp",
           "link": "/colecoes",
           "mobile_img": "/img/uploads/canecas-mobile.webp"
