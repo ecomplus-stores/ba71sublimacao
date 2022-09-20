@@ -26,6 +26,12 @@
           "img": "/img/uploads/canecas-desktop.webp",
           "link": "/colecoes",
           "mobile_img": "/img/uploads/canecas-mobile.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/10-desktop.webp",
+          "mobile_img": "/img/uploads/10-mobile.webp"
         }
       ]
     },
