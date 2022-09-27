@@ -1,13 +1,13 @@
 {
   "sort_categories": [
-    "sobre-nos",
-    "colecoes",
-    "caricatura",
-    "flork",
-    "personalizados",
-    "caneca-magica"
+    "sobre-nos-ba71",
+    "caneca-colecoes",
+    "caneca-caricatura-personalizada",
+    "caneca-flork",
+    "caneca-personalizados",
+    "caneca-magica-personalizada"
   ],
-  "alphabetical_order": true,
+  "alphabetical_order": false,
   "phone_wpp": false,
   "socials": false
 }
