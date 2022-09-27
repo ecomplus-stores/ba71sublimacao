@@ -14,12 +14,12 @@
   },
   "categories_list": {
     "featured": [
-      "/sobre-nos?SOBRE NÓS",
-      "/colecoes?COLEÇÕES",
-      "/caricatura?CARICATURA",
-      "/flork?FLORK",
-      "/personalizados?PERSONALIZADOS",
-      "/caneca-magica?CANECA MÁGICA"
+      "/sobre-nos-ba71?SOBRE NÓS",
+      "/caneca-colecoes?COLEÇÕES",
+      "/caneca-caricatura-personalizada?CARICATURA",
+      "/caneca-flork?FLORK",
+      "/caneca-personalizados?PERSONALIZADOS",
+      "/caneca-magica-personalizada?CANECA MÁGICA"
     ],
     "random": 6,
     "full_width": true
