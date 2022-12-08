@@ -10,8 +10,8 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/15-desktop.webp",
-          "mobile_img": "/img/uploads/15-mobile.webp"
+          "img": "/img/uploads/pix-desktop.webp",
+          "mobile_img": "/img/uploads/pix-mobile.webp"
         },
         {
           "start": "",
@@ -19,12 +19,6 @@
           "img": "/img/uploads/caricatura-desktop.webp",
           "link": "/caricatura",
           "mobile_img": "/img/uploads/caricatura-mobile.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/pix-desktop.webp",
-          "mobile_img": "/img/uploads/pix-mobile.webp"
         },
         {
           "start": "",
