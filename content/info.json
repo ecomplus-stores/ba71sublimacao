@@ -1,11 +1,12 @@
 {
   "shipping": {
     "show": true,
-    "text": "ENTREGAMOS PARA TODO O BRASIL"
+    "text": "em Todo Brasil",
+    "title": "ENTREGAS"
   },
   "installments": {
     "show": true,
-    "text": "PARCELE EM ATÉ 3x SEM JUROS NO CARTÃO DE CRÉDITO. EXCETO PROMOÇÃO",
+    "text": "em até 3x sem juros. Exceto Promoção",
     "title": "PARCELAMENTO"
   },
   "exchange": {
@@ -14,7 +15,7 @@
   },
   "promo": {
     "show": true,
-    "text": "ACIMA DE 5un., 12% DE DESCONTO",
+    "text": "acima de 5un., 12% de Desconto",
     "title": "COMPRE NO ATACADO"
   }
 }
