@@ -9,6 +9,12 @@
       "slides": [
         {
           "start": "",
+          "end": "2023-01-01T02:59:00.000Z",
+          "img": "/img/uploads/natal10-desktop.webp",
+          "mobile_img": "/img/uploads/natal10-mobile.webp"
+        },
+        {
+          "start": "",
           "end": "",
           "img": "/img/uploads/pix-desktop.webp",
           "mobile_img": "/img/uploads/pix-mobile.webp"
