@@ -6,7 +6,7 @@
   },
   "installments": {
     "show": true,
-    "text": "em até 3x sem juros. Exceto Promoção",
+    "text": "Em até 3x sem juros. Exceto Promoção",
     "title": "PARCELAMENTO"
   },
   "exchange": {
@@ -15,7 +15,7 @@
   },
   "promo": {
     "show": true,
-    "text": "acima de 5un., 12% de Desconto",
+    "text": "Acima de 5un., 12% de Desconto",
     "title": "COMPRE NO ATACADO"
   }
 }
