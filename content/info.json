@@ -5,7 +5,8 @@
   },
   "installments": {
     "show": true,
-    "text": "PARCELE EM ATÉ 3x SEM JUROS NO CARTÃO DE CRÉDITO. EXCETO PROMOÇÃO"
+    "text": "PARCELE EM ATÉ 3x SEM JUROS NO CARTÃO DE CRÉDITO. EXCETO PROMOÇÃO",
+    "title": "PARCELAMENTO"
   },
   "exchange": {
     "show": false,
