@@ -13,6 +13,7 @@
   },
   "promo": {
     "show": true,
-    "text": "COMPRAS ACIMA DE 5un., 12% DE DESCONTO"
+    "text": "ACIMA DE 5un., 12% DE DESCONTO",
+    "title": "COMPRE NO ATACADO"
   }
 }
