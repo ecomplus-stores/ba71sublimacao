@@ -9,9 +9,9 @@
       "slides": [
         {
           "start": "",
-          "end": "2023-01-01T02:59:15.874Z",
-          "img": "/img/uploads/natal10-desktop.png",
-          "mobile_img": "/img/uploads/natal10-mobile.png"
+          "end": "",
+          "img": "/img/uploads/12-desktop.png",
+          "mobile_img": "/img/uploads/12-mobile.png"
         },
         {
           "start": "",
@@ -25,12 +25,6 @@
           "img": "/img/uploads/caricatura-desktop.webp",
           "link": "/caricatura",
           "mobile_img": "/img/uploads/caricatura-mobile.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/12-desktop.png",
-          "mobile_img": "/img/uploads/12-mobile.png"
         },
         {
           "start": "",
