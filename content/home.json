@@ -8,13 +8,6 @@
       "full_width": true,
       "slides": [
         {
-          "start": "2023-03-24T15:32:34.561Z",
-          "end": "2023-04-08T17:00:00.000Z",
-          "img": "/img/uploads/pascoa-desktop.png",
-          "link": "https://wa.me/5571994189292",
-          "mobile_img": "/img/uploads/pascoa-mobile.png"
-        },
-        {
           "start": "",
           "end": "",
           "img": "/img/uploads/12-desktop.png",
@@ -39,6 +32,13 @@
           "img": "/img/uploads/canecas-desktop.webp",
           "link": "/colecoes",
           "mobile_img": "/img/uploads/canecas-mobile.webp"
+        },
+        {
+          "start": "2023-09-04T23:00:09.302Z",
+          "end": "2023-10-01T02:59:00.000Z",
+          "img": "/img/uploads/promo-desktop.webp",
+          "mobile_img": "/img/uploads/promo-mobile.webp",
+          "link": "https://ba71sublimacao.com.br/caneca-porcelana-personalizado-do-seu-jeito"
         }
       ]
     },
