@@ -9,6 +9,13 @@
       "slides": [
         {
           "start": "",
+          "end": "2023-10-01T02:59:00.000Z",
+          "img": "/img/uploads/promo-desktop.webp",
+          "mobile_img": "/img/uploads/promo-mobile.webp",
+          "link": "https://ba71sublimacao.com.br/caneca-porcelana-personalizado-do-seu-jeito"
+        },
+        {
+          "start": "",
           "end": "",
           "img": "/img/uploads/12-desktop.png",
           "mobile_img": "/img/uploads/12-mobile.png"
@@ -32,13 +39,6 @@
           "img": "/img/uploads/canecas-desktop.webp",
           "link": "/colecoes",
           "mobile_img": "/img/uploads/canecas-mobile.webp"
-        },
-        {
-          "start": "",
-          "end": "2023-10-01T02:59:00.000Z",
-          "img": "/img/uploads/promo-desktop.webp",
-          "mobile_img": "/img/uploads/promo-mobile.webp",
-          "link": "https://ba71sublimacao.com.br/caneca-porcelana-personalizado-do-seu-jeito"
         }
       ]
     },
