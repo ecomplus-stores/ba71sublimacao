@@ -60,3 +60,55 @@
   position: absolute;
   margin: 30px 25%;
 }
+@media(max-width: 576px) {
+  .product-card .prices__value + span {
+  display: flex;
+  flex-direction: column;
+  order: -1;
+  min-height: 95px;
+  justify-content: space-between;
+}
+
+.product-card .prices__value + span .prices__discount {
+  order: -1;
+}
+.product-card .prices__value + span .prices__discount span {
+  order: -1;
+  font-size: 1.2rem;
+  color: var(--success);
+}
+.product-card .prices__value {
+  font-size: 1rem;
+  position: absolute;
+  margin: 30px 17%;
+}
+.product-card {
+  text-align: center
+}
+.product-card .prices__value small {
+   display: none;
+}
+.product-card .prices__installments {
+  font-weight: bold !important;
+}
+.product-card .prices__discount span {
+  font-weight: bold !important;
+}
+.product-card .prices__discount .prices__discount-label:after {
+ content: '\a com 5% de desconto';
+ white-space: pre
+}
+.product-card .prices__installments::before {
+  content: 'até';
+  font-weight: normal !important;
+}
+.product-card .prices__installments span::before {
+  content: 'de';
+  font-weight: normal !important;
+}
+.product-card .prices__installments span::after {
+  content: 'sem juros';
+  font-weight: normal !important;
+}
+
+}
