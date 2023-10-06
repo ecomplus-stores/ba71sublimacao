@@ -111,4 +111,17 @@
   font-weight: normal !important;
 }
 
+.product-card.search-engine__item .prices__value + span {
+  display: flex;
+  flex-direction: column;
+  order: -1;
+  min-height: 125px;
+  justify-content: space-between;
+}
+.product-card.search-engine__item .prices__value {
+  font-size: 1rem;
+  position: absolute;
+  margin: 50px 17%;
+}
+
 }
