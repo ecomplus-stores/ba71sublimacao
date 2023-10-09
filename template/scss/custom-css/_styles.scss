@@ -6,7 +6,12 @@
   min-height: 80px;
   justify-content: space-between;
 }
-
+.product-card .prices__installments {
+    font-size: .8rem !important;
+}
+.product-card .prices__discount-label {
+  font-size: .7rem !important;
+}
 .product-card .prices__value + span .prices__discount {
   order: -1;
 }
@@ -176,9 +181,6 @@
   content: 'sem juros';
   font-weight: normal !important;
 }
-  .product-card .prices__installments {
-    font-size: .8rem !important;
-  }
 .product-card.search-engine__item .prices__value + span {
   display: flex;
   flex-direction: column;
