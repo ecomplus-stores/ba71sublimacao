@@ -6,6 +6,9 @@
   min-height: 80px;
   justify-content: space-between;
 }
+.product-card .prices__compare {
+  display: none !important;
+}
 .product-card .prices__installments {
     font-size: .7rem !important;
 }
@@ -23,7 +26,7 @@
 .product-card .prices__value {
   font-size: 1rem;
   position: absolute;
-  margin: 17px 30%;
+  margin: 17px auto;
 }
 .product-card {
   text-align: center
@@ -63,7 +66,7 @@
 .product-card--small .prices__value {
   font-size: 1rem;
   position: absolute;
-  margin: 30px 25%;
+  margin: 30px auto;
 }
 @media(max-width: 576px) {
   .product-card .prices__value + span {
@@ -85,7 +88,7 @@
 .product-card .prices__value {
   font-size: 1rem;
   position: absolute;
-  margin: 30px 17%;
+  margin: 30px auto;
 }
 .product-card {
   text-align: center
@@ -126,7 +129,7 @@
 .product-card.search-engine__item .prices__value {
   font-size: 1rem;
   position: absolute;
-  margin: 50px 17%;
+  margin: 50px auto;
 }
 
 }
@@ -151,7 +154,7 @@
 .product-card .prices__value {
   font-size: 1rem;
   position: absolute;
-  margin: 15px 25%;
+  margin: 15px auto;
 }
 .product-card {
   text-align: center
@@ -191,7 +194,63 @@
 .product-card.search-engine__item .prices__value {
   font-size: 1rem;
   position: absolute;
-  margin: 29px 19%;
+  margin: 29px auto;
 }
 
 }
+
+@media (max-width: 390px) {
+  .product-card .prices__value + span {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    min-height: 110px;
+    order: -1;
+  }
+}
+
+@media (max-width: 330px) {
+  .product-card .prices__value + span {
+    min-height: 120px;
+  }
+  .product-card .prices__value {
+    margin: 35px auto;
+  }
+}
+.product-card .prices__value {
+  width: 80%;
+}
+@media (max-width: 280px) {
+  .search-engine__retail .row .col-6 {
+    width: 100%;
+    max-width: 100%;
+    flex-basis: 100%;
+  }
+  .product-card .prices__value + span {
+    min-height: 100px;
+  }
+  .product-card .prices__value {
+    margin: 35px auto;
+  }
+  .glide__slide.products-carousel__item {
+    width: 260px !important;
+  }
+}
+
+@media (max-width: 260px) {
+  .glide__slide.products-carousel__item {
+    width: 240px !important;
+  }
+ }
+
+ @media (max-width: 240px) {
+  .glide__slide.products-carousel__item {
+    width: 220px !important;
+  }
+ }
+
+ @media (max-width: 220px) {
+  .glide__slide.products-carousel__item {
+    width: 200px !important;
+  }
+ }
