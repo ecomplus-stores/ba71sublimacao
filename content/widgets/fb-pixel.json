@@ -5,7 +5,8 @@
   "enableCheckout": true,
   "options": {
     "fbqContainerId": "554131330101761",
-    "debug": false
+    "debug": false,
+    "partytown": false
   },
   "headAppend": "src/append/head",
   "bodyAppend": "src/append/body"
