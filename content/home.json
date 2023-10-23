@@ -29,12 +29,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/pix-desktop.png",
-          "mobile_img": "/img/uploads/pix-mobile.png"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/caricatura-desktop.webp",
           "link": "/caricatura",
           "mobile_img": "/img/uploads/caricatura-mobile.webp"
