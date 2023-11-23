@@ -5,7 +5,7 @@
     {
       "type": "banner-slider",
       "autoplay": 5500,
-      "full_width": false,
+      "full_width": true,
       "slides": [
         {
           "start": "",
