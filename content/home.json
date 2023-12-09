@@ -49,6 +49,14 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "655386dd2cd6b65959a757ce:categories:NATAL:/caneca-natal",
+      "title": "Ho, Ho, Ho, O Natal Chegou!"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
       "collection_id": null,
       "sort": "news",
       "title": "LANÇAMENTOS",
