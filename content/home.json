@@ -15,10 +15,10 @@
         },
         {
           "start": "",
-          "end": "2023-12-01T02:59:00.000Z",
-          "img": "/img/uploads/personalize-desktop.png",
-          "mobile_img": "/img/uploads/personalize-mobile.png",
-          "link": "https://ba71sublimacao.com.br/caneca-porcelana-personalizado-do-seu-jeito"
+          "end": "",
+          "img": "/img/uploads/canecas-desktop.webp",
+          "link": "/colecoes",
+          "mobile_img": "/img/uploads/canecas-mobile.webp"
         },
         {
           "start": "",
@@ -32,13 +32,6 @@
           "img": "/img/uploads/caricatura-desktop.webp",
           "link": "/caricatura",
           "mobile_img": "/img/uploads/caricatura-mobile.webp"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/canecas-desktop.webp",
-          "link": "/colecoes",
-          "mobile_img": "/img/uploads/canecas-mobile.webp"
         }
       ]
     },
