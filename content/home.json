@@ -42,6 +42,16 @@
       "title": "Oxente! Somos Baianos, somos Barril Dobrado!"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65a56b992cd6b6595902c5aa:categories:FEMININO:/caneca-alfabeto-feminino",
+      "sort": null,
+      "headless": false,
+      "title": "Coleção Nomes Femininos"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
