@@ -2,8 +2,23 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "full_width": false
+      "autoplay": 5500,
+      "full_width": true,
+      "slides": [
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/1-compra-desktop.png",
+          "mobile_img": "/img/uploads/1-compra-mobile.png"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/canecas-desktop.webp",
+          "mobile_img": "/img/uploads/canecas-mobile.webp",
+          "link": "https://ba71sublimacao.com.br/caneca-baianes"
+        }
+      ]
     },
     {
       "type": "info-bar",
