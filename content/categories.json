@@ -17,6 +17,13 @@
           "img": "/img/uploads/canecas-desktop.webp",
           "mobile_img": "/img/uploads/canecas-mobile.webp",
           "link": "https://ba71sublimacao.com.br/caneca-baianes"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/caricatura-desktop.webp",
+          "link": "https://ba71sublimacao.com.br/caricatura",
+          "mobile_img": "/img/uploads/caricatura-mobile.webp"
         }
       ]
     },
