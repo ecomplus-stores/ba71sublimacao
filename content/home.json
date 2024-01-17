@@ -47,7 +47,7 @@
       "shuffle": false,
       "headless": false,
       "type": "collection-shelf",
-      "link": "https://ba71sublimacao.com.br/caneca-alfabeto-feminino",
+      "link": "",
       "limit": 12,
       "collection_id": "65a56b992cd6b6595902c5aa:categories:FEMININO:/caneca-alfabeto-feminino",
       "sort": "slug"
@@ -60,7 +60,7 @@
       "collection_id": "65a56bd82cd6b6595902c716:categories:INFANTIL:/caneca-alfabeto-infantil",
       "sort": "slug",
       "title": "Coleção Nome Infantil",
-      "link": "https://ba71sublimacao.com.br/caneca-alfabeto-infantil"
+      "link": ""
     },
     {
       "type": "dynamic-showcase",
