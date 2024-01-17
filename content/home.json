@@ -49,7 +49,7 @@
       "collection_id": "65a56b992cd6b6595902c5aa:categories:FEMININO:/caneca-alfabeto-feminino",
       "sort": "slug",
       "headless": false,
-      "title": "Coleção Nomes Femininos"
+      "title": "Coleção Nome Feminino"
     },
     {
       "type": "collection-shelf",
@@ -58,7 +58,7 @@
       "page": 1,
       "collection_id": "65a56bd82cd6b6595902c716:categories:INFANTIL:/caneca-alfabeto-infantil",
       "sort": "slug",
-      "title": "Coleção Nomes Infantil"
+      "title": "Coleção Nome Infantil"
     },
     {
       "type": "dynamic-showcase",
