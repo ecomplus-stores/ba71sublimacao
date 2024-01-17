@@ -52,6 +52,15 @@
       "title": "Coleção Nomes Femininos"
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65a56bd82cd6b6595902c716:categories:INFANTIL:/caneca-alfabeto-infantil",
+      "sort": "slug",
+      "title": "Coleção Nomes Infantil"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
