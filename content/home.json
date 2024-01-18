@@ -75,6 +75,15 @@
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "61e845e30c7c727225168a89:categories:LGBTQIAPN+:/caneca-lgbtqiapn",
+      "sort": null,
+      "title": "O Amor Aceita Todas as Cores"
     }
   ]
 }
