@@ -63,6 +63,15 @@
       "link": ""
     },
     {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "collection_id": "65a56bc12cd6b6595902c67a:categories:MASCULINO:/caneca-alfabeto-masculino",
+      "title": "Coleção Nome Masculino",
+      "sort": "slug"
+    },
+    {
       "type": "dynamic-showcase",
       "load_more": true,
       "sort": "sales"
