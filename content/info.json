@@ -1,6 +1,6 @@
 {
   "shipping": {
-    "show": false,
+    "show": true,
     "text": "Entregamos aonde Você estiver",
     "title": "SALVADOR --> BRASIL"
   },
