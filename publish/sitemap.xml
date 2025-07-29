@@ -1952,13 +1952,13 @@
     </url>
   
     <url>
-      <loc>https://ba71sublimacao.com.br/app/index</loc>
+      <loc>https://ba71sublimacao.com.br/admin/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
   
     <url>
-      <loc>https://ba71sublimacao.com.br/admin/index</loc>
+      <loc>https://ba71sublimacao.com.br/app/index</loc>
       <changefreq>monthly</changefreq>
       <priority>0.6</priority>
     </url>
