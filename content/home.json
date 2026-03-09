@@ -26,6 +26,13 @@
           "img": "/img/uploads/caricatura-desktop.webp",
           "link": "/caricatura",
           "mobile_img": "/img/uploads/caricatura-mobile.webp"
+        },
+        {
+          "start": "",
+          "end": "",
+          "img": "/img/uploads/pascoa-desktop.png",
+          "mobile_img": "/img/uploads/pascoa-mobile.png",
+          "link": "https://wa.me/5571994189292"
         }
       ]
     },
