@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.1f8d0fcabd50d3f33020b0f8f3fb8f67.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.4b34b409806fd265d512b692b38467f2.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.c56219931a8cc9947e106b1b30106f3b.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.e2cb1ef0b2b347318e4d17d4512e32eb.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.fb5a633857a196c2c771c2433c63ef8c.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "BA71 Sublimação ",
+  "short_name": "BA71 Sublimação",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Sublimação em Canecas de Porcelana, Vidro e Polímero (Plástico). Estampas Personalizadas ou Coleção BA71.",
+  "background_color": "#000000",
+  "theme_color": "#000000"
+}
